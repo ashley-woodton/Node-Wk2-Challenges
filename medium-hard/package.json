@@ -1,0 +1,15 @@
+{
+  "name": "medium-hard",
+  "version": "1.0.0",
+  "description": "medium and hard node week 2 challenges",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Woodton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^13.1.0"
+  }
+}

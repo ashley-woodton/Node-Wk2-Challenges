@@ -1,0 +1,64 @@
+{
+    "employees":[
+        {
+            "id":1,
+            "name":"Ashley Woodton",
+            "salary":75000,
+            "department":"Dance"
+        },
+        {
+            "id":2,
+            "name":"Alisha Clark",
+            "salary":100000,
+            "department":"Choreography"
+        },
+        {
+            "id":3,
+            "name":"Rufus Chappell",
+            "salary":75000,
+            "department":"Dance"
+        },
+        {
+            "id":4,
+            "name":"Keyvon Scott",
+            "salary":75000,
+            "department":"Dance"
+        },
+        {
+            "id":5,
+            "name":"Mariel Madrid",
+            "salary":1000000,
+            "department":"Choreography"
+        },
+        {
+            "id":6,
+            "name":"Keone Madrid",
+            "salary":2100000,
+            "department":"Choreography"
+        },
+        {
+            "id":7,
+            "name":"Ian Eastwood",
+            "salary":500000,
+            "department":"Choreography"
+        },
+        {
+            "id":8,
+            "name":"Phil Wright",
+            "salary":1000000,
+            "department":"Choreography"
+        },
+        {
+            "id":9,
+            "name":"Willdabeast Adams",
+            "salary":1000000,
+            "department":"Choreography"
+        },
+        {
+            "id":10,
+            "name":"Matt Steffanina",
+            "salary":1500000,
+            "department":"Choreography"
+        }
+    ]
+}
